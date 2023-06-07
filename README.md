@@ -2,6 +2,8 @@
 
 India Hexmap is a web-based visualization tool to represent Indian election data using a hexagonal binning method. The visualization is built using D3.js and presents constituency level results in an intuitive, aesthetic, and interactive manner.
 
+<img width="1018" alt="Screenshot 2023-06-07 at 21 07 48" src="https://github.com/a-jiwa/india-hexmap/assets/123359566/a6a1b3f4-6692-4d79-af4f-c544c2db9ec7">
+
 ## Features
 
 - Hexagonal representation of Indian constituencies.
